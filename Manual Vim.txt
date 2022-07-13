@@ -1,0 +1,39 @@
+MANUAL VIM
+
+Movimiento del cursor
+
+Normal   Por palabra  	Por archivo   Por linea
+
+  k
+h   l	   b   w e         gg   G      #linea gg
+  n
+
+Insertar
+
+I  i a  A
+
+Cortar
+
+   x
+
+pegar
+
+  p
+
+Guardar
+
+  :w
+
+Eliminar (se utiliza con 'd' y los operadores de movimiento, dd para cortar linea)
+
+Deshacer    Rehacer
+
+   u         ctrl+r
+
+Buscar
+
+/palabra
+
+Cambiar palabra
+
+     cw
